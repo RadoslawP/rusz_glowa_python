@@ -1,0 +1,8 @@
+  Plik: odd.py
+  rozmiar: 458       	bloków: 8          bloki I/O: 4096   plik zwykły
+Urządzenie: 803h/2051d	inody: 2093074     dowiązań: 1
+Dostęp: (0664/-rw-rw-r--)  Uid: ( 1000/    raum)   Gid: ( 1000/    raum)
+Dostęp:      2022-01-08 07:57:20.699940165 +0100
+Modyfikacja: 2021-08-21 12:51:57.708764640 +0200
+Zmiana:      2021-08-21 12:51:57.708764640 +0200
+Utworzenie:  -
