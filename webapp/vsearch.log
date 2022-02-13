@@ -1,0 +1,5 @@
+ImmutableMultiDict([('phrase', 'zero zakazynych śłów'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0|zero zakazynych śłów|{'e', 'o', 'a'}
+ImmutableMultiDict([('phrase', 'w lesie zbierasz kryształy '), ('letters', 'aeiosz')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0|w lesie zbierasz kryształy |{'z', 's', 'a', 'i', 'e'}
+ImmutableMultiDict([('phrase', 'pies się chyba denerwuje'), ('letters', 'alop')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0|pies się chyba denerwuje|{'a', 'p'}
+ImmutableMultiDict([('phrase', 'dupa Loki zamknij jape'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0|{'o', 'i', 'u', 'a', 'e'}
+ImmutableMultiDict([('phrase', 'harry potter i komnata tajemnic'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0|{'e', 'o', 'i', 'a'}
